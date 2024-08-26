@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Adams",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Adams makes complex concepts in physics easy to understand. Her lectures are engaging and well-organized."
+      },
+      {
+        "professor": "Professor James Bennett",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Professor Bennett is exceptional. He explains mathematical theories with clarity and always provides helpful examples."
+      },
+      {
+        "professor": "Dr. Susan Carter",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Dr. Carter is knowledgeable but her lectures can be a bit dry. Her office hours are very helpful for additional support."
+      },
+      {
+        "professor": "Professor Robert Davis",
+        "subject": "History",
+        "stars": 4,
+        "review": "Professor Davis brings history to life with his storytelling. His classes are both informative and entertaining."
+      },
+      {
+        "professor": "Dr. Linda Evans",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Dr. Evans is very knowledgeable but her teaching style is hard to follow. The class can be quite challenging."
+      },
+      {
+        "professor": "Professor Michael Foster",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Professor Foster has a passion for literature that is contagious. His analysis of texts is insightful and thought-provoking."
+      },
+      {
+        "professor": "Dr. Jessica Green",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Green's lectures are informative but sometimes lack engagement. The subject matter is interesting, though."
+      },
+      {
+        "professor": "Professor William Harris",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Professor Harris explains economic theories in a way that is both accessible and relevant. His real-world examples are very useful."
+      },
+      {
+        "professor": "Dr. Natalie Johnson",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Johnson is an excellent teacher who is always available for help. Her coding exercises are practical and well-designed."
+      },
+      {
+        "professor": "Professor Andrew King",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Professor King has a deep understanding of philosophy but his lectures can sometimes be overly complex."
+      },
+      {
+        "professor": "Dr. Laura Lee",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Lee is very engaging and makes sociology come alive through real-world examples and interactive discussions."
+      },
+      {
+        "professor": "Professor Daniel Martinez",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Professor Martinez is highly knowledgeable and passionate about political science. His classes are always thought-provoking and well-structured."
+      },
+      {
+        "professor": "Dr. Olivia Nelson",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. Nelson is a competent teacher but the subject can be difficult to grasp. More practical examples would be helpful."
+      },
+      {
+        "professor": "Professor Richard O'Connor",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Professor O'Connor is great at explaining engineering principles and his hands-on approach makes learning effective."
+      },
+      {
+        "professor": "Dr. Karen Patel",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Patel is passionate about environmental science and her enthusiasm is reflected in her engaging lectures and assignments."
+      },
+      {
+        "professor": "Professor Brian Quinn",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Professor Quinn provides detailed and insightful analyses of art pieces. His knowledge of art history is impressive and inspiring."
+      },
+      {
+        "professor": "Dr. Megan Roberts",
+        "subject": "Anthropology",
+        "stars": 2,
+        "review": "Dr. Roberts' lectures are sometimes disorganized, making it hard to follow the course material effectively."
+      },
+      {
+        "professor": "Professor Steven Smith",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Professor Smith is an excellent teacher who makes music theory accessible and enjoyable. His classes are always engaging."
+      },
+      {
+        "professor": "Dr. Alice Turner",
+        "subject": "Astronomy",
+        "stars": 4,
+        "review": "Dr. Turner is passionate about astronomy and her lectures are filled with fascinating insights about the universe."
+      },
+      {
+        "professor": "Professor Ethan Wilson",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Professor Wilson is knowledgeable but sometimes his explanations are too brief. More detailed instructions would improve the course."
+      }
+    ]
+  }
+  
