@@ -7,38 +7,38 @@ export default function Features() {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         <div
           className="card bg-neutral text-neutral-content shadow-xl transform transition duration-500 hover:scale-105 hover:bg-accent hover:text-black hover:shadow-2xl"
-          aria-label="Create Flashcards"
+          aria-label="Rate Professors"
         >
           <div className="card-body">
             <h3 className="card-title flex items-center">
               {/* Replace the placeholder with an actual icon */}
-              <span className="mr-2">📚</span> Create Flashcards
+              <span className="mr-2">⭐</span> Rate Professors
             </h3>
-            <p>Easily create flashcards with text, images, and custom formatting to make learning efficient.</p>
+            <p>Rate and review professors based on your personal experiences to help others find the best educators.</p>
           </div>
         </div>
         <div
           className="card bg-neutral text-neutral-content shadow-xl transform transition duration-500 hover:scale-105 hover:bg-accent hover:text-black hover:shadow-2xl"
-          aria-label="Organize Decks"
+          aria-label="Find Professors"
         >
           <div className="card-body">
             <h3 className="card-title flex items-center">
               {/* Replace the placeholder with an actual icon */}
-              <span className="mr-2">🗂</span> Organize Decks
+              <span className="mr-2">🔍</span> Find Professors
             </h3>
-            <p>Organize flashcards into decks by topic, subject, or category for easy retrieval and study.</p>
+            <p>Search for professors by name, department, or course to find reviews and ratings easily.</p>
           </div>
         </div>
         <div
           className="card bg-neutral text-neutral-content shadow-xl transform transition duration-500 hover:scale-105 hover:bg-accent hover:text-black hover:shadow-2xl"
-          aria-label="Track Progress"
+          aria-label="Chat with Support"
         >
           <div className="card-body">
             <h3 className="card-title flex items-center">
               {/* Replace the placeholder with an actual icon */}
-              <span className="mr-2">📈</span> Track Progress
+              <span className="mr-2">💬</span> Chat with Support
             </h3>
-            <p>Track your learning progress and get insights into your strengths and weaknesses over time.</p>
+            <p>Get assistance and answers to your questions through our integrated chatbot for a seamless experience.</p>
           </div>
         </div>
       </div>
