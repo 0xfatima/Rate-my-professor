@@ -1,3 +1,4 @@
+
 import React from "react";
 
 export default function FAQ() {
@@ -8,39 +9,43 @@ export default function FAQ() {
           <h2 className="text-4xl font-bold mb-4">Frequently Asked Questions</h2>
         </div>
         <div className="md:w-2/3 space-y-4">
-          <div className="bg-primary collapse">
+          {/* FAQ Items */}
+          <div className="collapse bg-primary">
             <input type="checkbox" className="peer" />
             <div className="collapse-title bg-primary text-primary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors">
               What is RateMyProfessor?
             </div>
-            <div className="collapse-content bg-secondary text-secondary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors animate-fadeIn">
+            <div className="collapse-content bg-secondary text-secondary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors">
               <p>RateMyProfessor is a platform that allows students to rate and review their professors.</p>
             </div>
           </div>
-          <div className="bg-primary collapse">
+
+          <div className="collapse bg-primary">
             <input type="checkbox" className="peer" />
             <div className="collapse-title bg-primary text-primary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors">
               How do I rate a professor?
             </div>
-            <div className="collapse-content bg-secondary text-secondary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors animate-fadeIn">
-              <p>Search for your professor and click &apos;Rate&apos; to submit your review.</p>
+            <div className="collapse-content bg-secondary text-secondary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors">
+              <p>Search for your professor and click 'Rate' to submit your review.</p>
             </div>
           </div>
-          <div className="bg-primary collapse">
+
+          <div className="collapse bg-primary">
             <input type="checkbox" className="peer" />
             <div className="collapse-title bg-primary text-primary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors">
               Can I edit or delete my review?
             </div>
-            <div className="collapse-content bg-secondary text-secondary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors animate-fadeIn">
+            <div className="collapse-content bg-secondary text-secondary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors">
               <p>Yes, you can edit or delete your review from your account dashboard at any time.</p>
             </div>
           </div>
-          <div className="bg-primary collapse">
+
+          <div className="collapse bg-primary">
             <input type="checkbox" className="peer" />
             <div className="collapse-title bg-primary text-primary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors">
               Is my review anonymous?
             </div>
-            <div className="collapse-content bg-secondary text-secondary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors animate-fadeIn">
+            <div className="collapse-content bg-secondary text-secondary-content peer-checked:bg-primary peer-checked:text-primary-content transition-colors">
               <p>Yes, all reviews are anonymous to protect your privacy while providing honest feedback.</p>
             </div>
           </div>
@@ -50,3 +55,4 @@ export default function FAQ() {
     </section>
   );
 }
+
